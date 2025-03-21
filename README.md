@@ -1,2 +1,2 @@
 # Backend-Banking-application
-This is my first Git Repository.
+This is a backend-banking application
